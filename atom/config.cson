@@ -1,0 +1,18 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "seti-ui"
+      "seti-syntax"
+    ]
+    titleBar: "custom"
+  "exception-reporting":
+    userId: "c98c91c5-eed0-0645-ec2a-ddb37969c6ee"
+  "seti-syntax":
+    dynamicColor: false
+    themeColor: "Pink"
+  "seti-ui":
+    compactView: true
+    themeColor: "Pink"
+  welcome:
+    showOnStartup: false
