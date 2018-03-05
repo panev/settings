@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Colorsublime - Themes/Gooey.tmTheme",
+	"font_size": 15,
+	"gutterForeground": "#fff",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_numbers": true,
+	"theme": "Seti.sublime-theme"
+}
